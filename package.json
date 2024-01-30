@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@web/dev-server": "^0.4.1"
+  },
+  "name": "ts_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@web/dev-server": "^0.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
